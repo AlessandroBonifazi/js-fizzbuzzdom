@@ -1,0 +1,15 @@
+/* Content */
+.ab-container {
+    width: 500px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cell {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    background-color: lightblue;
+}
